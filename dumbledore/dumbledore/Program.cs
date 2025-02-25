@@ -1,0 +1,41 @@
+using dumbledore.DL;
+using dumbledore.DL.Interfaces;
+using dumbledore.Services;
+using dumbledore.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+builder.Services.AddControllers();
+builder.Services.AddSingleton<IMovieService, MovieService>();
+builder.Services.AddSingleton<IMovieRepository, MovieRepository>();
+
+builder.Services.AddDbContext<MovieContext>(
+    options=>
+    {
+        options.UseSqlite("Data Source=main.db");
+    }
+);
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
