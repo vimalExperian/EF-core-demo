@@ -12,12 +12,22 @@ namespace dumbledore.Controllers
         }
 
         [HttpPost]
+        [Route("movie")]
         [ProducesResponseType(200)]
         public IActionResult AddMovie(CreateMovierRequest createMovierRequest)
         {
             _movieService.AddMovie(createMovierRequest);
 
             return Ok("Hi");
+        }
+
+
+        [HttpGet]
+        [Route("movie/{MovieId}")]
+        public IActionResult FetchMovie(int MovieId)
+        {
+            var movie=_movieService.FetchMovie(MovieId);
+            return Ok(movie);
         }
     }
 }

@@ -1,5 +1,8 @@
-﻿namespace dumbledore.DL.Entity
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace dumbledore.DL.Entity
 {
+    [Table("Movie")]
     public class MovieEntity
     {
         public int ID { get; set; }
@@ -13,6 +16,8 @@
         public string Genre { get; set; }
 
         public virtual List<CrewEntity> Crew { get; set; }
+
+        public virtual List<ReviewEntity> Review { get; set; }
 
 
     }

@@ -12,8 +12,13 @@ namespace dumbledore.Services
         }
         public void AddMovie(CreateMovierRequest movierRequest)
         {
-            _movieRepository.CreateMovie();
+            _movieRepository.CreateMovie(movierRequest);
         }
 
+        public CreateMovierRequest FetchMovie(int MovieID)
+        {
+            var movieDetails=_movieRepository.FetchMovie(MovieID);
+            return movieDetails;
+        }
     }
 }

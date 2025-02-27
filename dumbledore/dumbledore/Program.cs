@@ -13,11 +13,28 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
-builder.Services.AddSingleton<IMovieService, MovieService>();
-builder.Services.AddSingleton<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IMovieService, MovieService>();
+builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IReviewService, ReviewService>();
+builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
+
 
 builder.Services.AddDbContext<MovieContext>(
     options=>
+    {
+        options.UseSqlite("Data Source=main.db");
+    }
+);
+
+builder.Services.AddDbContext<CrewContext>(
+    options =>
+    {
+        options.UseSqlite("Data Source=main.db");
+    }
+);
+
+builder.Services.AddDbContext<ReviewContext>(
+    options =>
     {
         options.UseSqlite("Data Source=main.db");
     }
