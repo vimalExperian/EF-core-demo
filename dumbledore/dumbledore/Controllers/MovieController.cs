@@ -18,7 +18,7 @@ namespace dumbledore.Controllers
         {
             _movieService.AddMovie(createMovierRequest);
 
-            return Ok("Hi");
+            return Ok("success");
         }
 
 
@@ -29,5 +29,7 @@ namespace dumbledore.Controllers
             var movie=_movieService.FetchMovie(MovieId);
             return Ok(movie);
         }
+
+
     }
 }

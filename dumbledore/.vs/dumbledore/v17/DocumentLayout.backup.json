@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\repo\\!dev\\ef-core-demo\\dumbledore\\dumbledore\\migrations\\20250227132622_moviemig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\migrations\\20250227132622_moviemig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\repo\\!dev\\ef-core-demo\\dumbledore\\dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,11 +93,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "20250227132622_MovieMig1.cs",
+              "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
+              "ToolTip": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
+              "RelativeToolTip": "dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:26:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\ReviewRepository.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IReviewRepository.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\IReviewRepository.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "dumbledore\\Services\\ReviewService.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IReviewService.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\IReviewService.cs",
               "RelativeDocumentMoniker": "dumbledore\\Services\\Interfaces\\IReviewService.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CreateRatingRequest.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateRatingRequest.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateRatingRequest.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "dumbledore\\Controllers\\ReviewController.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ActionMethodExecutor.cs",
               "DocumentMoniker": "C:\\Users\\C20725E\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\C20725E\\AppData\\Local\\Temp\\1\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "dumbledore\\Controllers\\MovieController.cs",
@@ -197,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CreateMovierRequest.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovierRequest.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateMovierRequest.cs",
@@ -210,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EntityContextFactory.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\EntityContextFactory.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\EntityContextFactory.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EntityContext.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\EntityContext.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\EntityContext.cs",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ReviewEntity.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\ReviewEntity.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\ReviewEntity.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CrewEntity.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\CrewEntity.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\CrewEntity.cs",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MovieEntity.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\MovieEntity.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\MovieEntity.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "dumbledore.csproj",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\dumbledore.csproj",
               "RelativeDocumentMoniker": "dumbledore\\dumbledore.csproj",
@@ -288,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\MovieRepository.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\MovieRepository.cs",
@@ -301,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
@@ -314,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "dumbledore\\Services\\MovieService.cs",
@@ -327,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\IMovieService.cs",
               "RelativeDocumentMoniker": "dumbledore\\Services\\Interfaces\\IMovieService.cs",
@@ -340,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repo\\!Dev\\EF-core-demo\\dumbledore\\dumbledore\\Program.cs",
               "RelativeDocumentMoniker": "dumbledore\\Program.cs",
