@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dumbledore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+021d98895612c9a46ec686587563b9e6590bd0ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9fabd8f3fcd6db812d70f74e6ce000499a769f")]
 [assembly: System.Reflection.AssemblyProductAttribute("dumbledore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dumbledore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
