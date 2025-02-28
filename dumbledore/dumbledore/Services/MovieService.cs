@@ -20,5 +20,6 @@ namespace dumbledore.Services
             var movieDetails=_movieRepository.FetchMovie(MovieID);
             return movieDetails;
         }
+
     }
 }

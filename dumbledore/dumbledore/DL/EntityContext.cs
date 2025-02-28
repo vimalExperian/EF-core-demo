@@ -29,7 +29,7 @@ namespace dumbledore.DL
             Database.EnsureCreated();
         }
 
-        public DbSet<CrewEntity> Crew => Set<CrewEntity>();
+        public DbSet<CrewEntity> CrewEntity => Set<CrewEntity>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
