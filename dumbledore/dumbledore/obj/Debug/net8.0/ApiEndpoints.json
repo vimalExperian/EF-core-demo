@@ -26,6 +26,53 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "dumbledore.Controllers.CrewController",
+    "Method": "GetCrewByMovie",
+    "RelativePath": "crew/{movieId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dumbledore.Controllers.CrewController",
+    "Method": "ReplaceCrew",
+    "RelativePath": "crewReplace",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Role",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MovieId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "dumbledore.Controllers.MovieController",
     "Method": "AddMovie",
     "RelativePath": "movie",

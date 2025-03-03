@@ -1,4 +1,5 @@
-﻿using dumbledore.DL.Interfaces;
+﻿using dumbledore.DL.Entity;
+using dumbledore.DL.Interfaces;
 using dumbledore.DL.Models;
 using dumbledore.Services.Interfaces;
 
@@ -16,5 +17,14 @@ namespace dumbledore.Services
 
             _crewRepository.CreateCrew(cr);
         }
+        public bool ReplaceCrew(UpdateCrewRequest cr)
+        {
+            return _crewRepository.DeleteAndAddCrew(cr);
+        }
+        public List<CrewEntity> GetCrewByMovie(int movieId)
+        {
+            return _crewRepository.GetCrewByMovieId(movieId);
+        }
+
     }
 }
