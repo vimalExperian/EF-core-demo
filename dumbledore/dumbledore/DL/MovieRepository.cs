@@ -29,8 +29,8 @@ namespace dumbledore.DL
         public CreateMovierRequest FetchMovie(int Id)
         {
             var movie = _context.Movie?.Where(x=>x.ID==Id).FirstOrDefault();
-            if (movie == null)
-                return null;
+            //if (movie == null)
+            //return null;
             return new CreateMovierRequest
             {
                 Name=movie.Name,
