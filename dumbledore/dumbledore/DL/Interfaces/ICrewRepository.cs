@@ -7,5 +7,7 @@ namespace dumbledore.DL.Interfaces
         public void CreateCrew(CreateCrewRequest Createcrewrequest);
         public bool DeleteAndAddCrew(UpdateCrewRequest Updatecrewrequest);
         public List<CrewEntity> GetCrewByMovieId(int movieId);
+        public CrewEntity GetCrewWithMostMovies();
+
     }
 }

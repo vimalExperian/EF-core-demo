@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\controllers\\crewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\controllers\\crewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\crewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\services\\crewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\interfaces\\icrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\services\\interfaces\\icrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\crewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\crewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\interfaces\\icrewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\interfaces\\icrewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\updatecrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\updatecrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\controllers\\crewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\controllers\\crewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createmovierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createmovierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\entity\\crewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\entity\\crewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +43,32 @@
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\crewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\crewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\crewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\services\\crewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\services\\interfaces\\icrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\services\\interfaces\\icrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\entity\\crewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\entity\\crewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createcrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createcrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\entity\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\entity\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createmovierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createmovierrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createcrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createcrewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\migrations\\20250227132622_moviemig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,24 +79,12 @@
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\migrations\\moviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\entitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\entitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createmovieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\models\\createmovieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\entity\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dl\\entity\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dl\\models\\createcrewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -120,6 +120,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|c:\\users\\c22381e\\ef-core-demo\\dumbledore\\dumbledore\\dumbledore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E25FB4AB-532F-483C-8B4C-BCE1354D7FF8}|dumbledore\\dumbledore.csproj|solutionrelative:dumbledore\\dumbledore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\UpdateCrewRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dumbledore\\DL\\Models\\UpdateCrewRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,97 +142,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:38:45.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateMovierRequest.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovierRequest.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateMovierRequest.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovierRequest.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateMovierRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:48:26.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateCrewRequest.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T05:36:17.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICrewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:14:15.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateCrewRequest.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateCrewRequest.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateCrewRequest.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateCrewRequest.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateCrewRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:14:34.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICrewService.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\ICrewService.cs",
-              "RelativeDocumentMoniker": "dumbledore\\Services\\Interfaces\\ICrewService.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\ICrewService.cs",
-              "RelativeToolTip": "dumbledore\\Services\\Interfaces\\ICrewService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:15:19.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CrewController.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\CrewController.cs",
               "RelativeDocumentMoniker": "dumbledore\\Controllers\\CrewController.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\CrewController.cs*",
-              "RelativeToolTip": "dumbledore\\Controllers\\CrewController.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAnwCMAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\CrewController.cs",
+              "RelativeToolTip": "dumbledore\\Controllers\\CrewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T19:18:12.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\MovieService.cs",
+              "RelativeToolTip": "dumbledore\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:51:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\MovieRepository.cs",
+              "RelativeToolTip": "dumbledore\\DL\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:38:26.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CrewEntity.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\CrewEntity.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\CrewEntity.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\CrewEntity.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Entity\\CrewEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:10:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICrewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Interfaces\\ICrewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:14:15.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\CrewRepository.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\CrewRepository.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\CrewRepository.cs",
+              "RelativeToolTip": "dumbledore\\DL\\CrewRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:15:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrewService.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\CrewService.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Services\\CrewService.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\CrewService.cs*",
+              "RelativeToolTip": "dumbledore\\Services\\CrewService.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:15:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICrewService.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\ICrewService.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Services\\Interfaces\\ICrewService.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\ICrewService.cs",
+              "RelativeToolTip": "dumbledore\\Services\\Interfaces\\ICrewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:15:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "dumbledore\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:34:11.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\Interfaces\\IMovieService.cs",
               "RelativeDocumentMoniker": "dumbledore\\Services\\Interfaces\\IMovieService.cs",
@@ -241,96 +271,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "dumbledore\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "dumbledore\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:34:11.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\CrewRepository.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\CrewRepository.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\CrewRepository.cs",
-              "RelativeToolTip": "dumbledore\\DL\\CrewRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:15:04.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CrewService.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\CrewService.cs",
-              "RelativeDocumentMoniker": "dumbledore\\Services\\CrewService.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Services\\CrewService.cs",
-              "RelativeToolTip": "dumbledore\\Services\\CrewService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:15:33.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateRatingRequest.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateRatingRequest.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateRatingRequest.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateRatingRequest.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateRatingRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:27:14.1Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CrewEntity.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\CrewEntity.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\CrewEntity.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\CrewEntity.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Entity\\CrewEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:10:40.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "dumbledore\\Controllers\\ReviewController.cs",
               "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "dumbledore\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:25:58.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\MovieRepository.cs",
-              "RelativeToolTip": "dumbledore\\DL\\MovieRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCUAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CreateRatingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateRatingRequest.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateRatingRequest.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateRatingRequest.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateRatingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:38:26.332Z"
+              "WhenOpened": "2025-02-27T12:27:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Program.cs",
+              "RelativeDocumentMoniker": "dumbledore\\Program.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Program.cs",
+              "RelativeToolTip": "dumbledore\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:49:22.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:38:45.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieEntity.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\MovieEntity.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\MovieEntity.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\MovieEntity.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Entity\\MovieEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:08:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCrewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateCrewRequest.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateCrewRequest.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateCrewRequest.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateCrewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:14:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateCrewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Models\\UpdateCrewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:36:17.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "CreateMovierRequest.cs",
+              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovierRequest.cs",
+              "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateMovierRequest.cs",
+              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovierRequest.cs",
+              "RelativeToolTip": "dumbledore\\DL\\Models\\CreateMovierRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:48:26.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "MovieContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Migrations\\MovieContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "dumbledore\\Migrations\\MovieContextModelSnapshot.cs",
@@ -342,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "20250227132622_MovieMig1.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
               "RelativeDocumentMoniker": "dumbledore\\Migrations\\20250227132622_MovieMig1.cs",
@@ -354,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "EntityContext.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\EntityContext.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\EntityContext.cs",
@@ -366,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CreateMovieResponse.cs",
               "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Models\\CreateMovieResponse.cs",
               "RelativeDocumentMoniker": "dumbledore\\DL\\Models\\CreateMovieResponse.cs",
@@ -375,30 +414,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T13:31:46.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MovieEntity.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\MovieEntity.cs",
-              "RelativeDocumentMoniker": "dumbledore\\DL\\Entity\\MovieEntity.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\DL\\Entity\\MovieEntity.cs",
-              "RelativeToolTip": "dumbledore\\DL\\Entity\\MovieEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:08:15.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Program.cs",
-              "RelativeDocumentMoniker": "dumbledore\\Program.cs",
-              "ToolTip": "C:\\Users\\C22381E\\EF-core-demo\\dumbledore\\dumbledore\\Program.cs",
-              "RelativeToolTip": "dumbledore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:49:22.79Z"
             },
             {
               "$type": "Document",

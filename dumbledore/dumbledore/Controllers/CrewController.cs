@@ -43,5 +43,16 @@ namespace dumbledore.Controllers
             }
             return Ok(crewMembers);
         }
+        [HttpGet]
+        [Route("crew/MostMovies")]
+        public IActionResult GetCrewWithMostMovies()
+        {
+            var crewMember = _crewService.GetCrewWithMostMovies();
+            if (crewMember == null)
+            {
+                return NotFound("No Crew members found");
+            }
+            return Ok(crewMember);
+        }
     }
 }

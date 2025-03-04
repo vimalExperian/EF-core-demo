@@ -43,6 +43,16 @@
   },
   {
     "ContainingType": "dumbledore.Controllers.CrewController",
+    "Method": "GetCrewWithMostMovies",
+    "RelativePath": "crew/MostMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dumbledore.Controllers.CrewController",
     "Method": "ReplaceCrew",
     "RelativePath": "crewReplace",
     "HttpMethod": "PUT",

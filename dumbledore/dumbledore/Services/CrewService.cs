@@ -26,5 +26,9 @@ namespace dumbledore.Services
             return _crewRepository.GetCrewByMovieId(movieId);
         }
 
+        public CrewEntity GetCrewWithMostMovies()
+        {
+            return _crewRepository.GetCrewWithMostMovies();
+        }
     }
 }

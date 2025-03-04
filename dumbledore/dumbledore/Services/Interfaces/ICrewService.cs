@@ -7,5 +7,6 @@ namespace dumbledore.Services.Interfaces
         public void AddCrew(CreateCrewRequest createCrewRequest);
         public bool ReplaceCrew(UpdateCrewRequest updateCrewRequest);
         public List<CrewEntity> GetCrewByMovie(int movieId);
+        public CrewEntity GetCrewWithMostMovies();
     }
 }
