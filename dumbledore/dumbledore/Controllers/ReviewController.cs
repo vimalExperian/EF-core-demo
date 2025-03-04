@@ -18,6 +18,6 @@ namespace dumbledore.Controllers
             bool success = _reviewService.AddReview(request);
             return Ok(success);
         }
-        
+
     }
 }

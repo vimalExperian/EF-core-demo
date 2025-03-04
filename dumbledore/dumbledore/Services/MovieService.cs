@@ -10,15 +10,41 @@ namespace dumbledore.Services
         public MovieService(IMovieRepository movieRepository) {
             _movieRepository = movieRepository;
         }
-        public void AddMovie(CreateMovierRequest movierRequest)
+        public CreateMovierRequest AddMovie(CreateMovierRequest movierRequest)
         {
-            _movieRepository.CreateMovie(movierRequest);
+            var movie=_movieRepository.CreateMovie(movierRequest);
+            return movie;
         }
 
         public CreateMovierRequest FetchMovie(int MovieID)
         {
             var movieDetails=_movieRepository.FetchMovie(MovieID);
             return movieDetails;
+        }
+
+        
+        public List<CreateMovierRequest> GetListOfMovies(List<int> MovieIds)
+        {
+            var result=new List<CreateMovierRequest>();
+            foreach(int id in MovieIds)
+            {
+                result.Add(FetchMovie(id));
+            }
+            return result;
+        } 
+        public List<CreateMovierRequest> AddMultipleMovies(List<CreateMovierRequest> createMovierRequests)
+        {
+            var result = new List<CreateMovierRequest>();
+            foreach(var movie in createMovierRequests)
+            {
+                result.Add(AddMovie(movie));
+            }
+            return result;
+        }
+        public List<HighBudgetMovieResponse> GetHighBudgetMovies()
+        {
+            var result = _movieRepository.GetHighBudget();
+            return result;
         }
     }
 }

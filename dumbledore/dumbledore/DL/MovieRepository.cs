@@ -13,7 +13,7 @@ namespace dumbledore.DL
             _context = context;
         }
 
-        public void CreateMovie(CreateMovierRequest request)
+        public CreateMovierRequest CreateMovie(CreateMovierRequest request)
         {
             var entity = new MovieEntity
             {
@@ -24,6 +24,7 @@ namespace dumbledore.DL
             };
             _context.Movie.Add(entity);
             _context.SaveChanges();
+            return request;
         }
 
         public CreateMovierRequest FetchMovie(int Id)
@@ -39,6 +40,11 @@ namespace dumbledore.DL
                 genre=movie.Genre
             };
 
+        }
+        public List<HighBudgetMovieResponse> GetHighBudget()
+        {
+            var result = _context.Movie.Where(x => x.Budget > 50).Select(x => new HighBudgetMovieResponse{Name=x.Name,Budget=x.Budget }).ToList();
+            return result;
         }
     }
 }

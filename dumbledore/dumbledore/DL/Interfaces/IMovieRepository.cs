@@ -5,8 +5,9 @@ namespace dumbledore.DL.Interfaces
 {
     public interface IMovieRepository
     {
-        public void CreateMovie(CreateMovierRequest createMovierRequest);
+        public CreateMovierRequest CreateMovie(CreateMovierRequest createMovierRequest);
 
         public CreateMovierRequest FetchMovie(int Id);
+        public List<HighBudgetMovieResponse> GetHighBudget();
     }
 }

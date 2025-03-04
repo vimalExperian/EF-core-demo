@@ -29,7 +29,26 @@ namespace dumbledore.Controllers
             var movie=_movieService.FetchMovie(MovieId);
             return Ok(movie);
         }
-
-
+        [HttpGet]
+        [Route("movies")]
+        public IActionResult GetListOfMovies(List<int> MoviedIds)
+        {
+            var movies=_movieService.GetListOfMovies(MoviedIds);
+            return Ok(movies);
+        }
+        [HttpPost]
+        [Route("AddMovies")]
+        public IActionResult AddMultipleMovies([FromBody] List<CreateMovierRequest> createMovierRequests )
+        {
+            var movies=_movieService.AddMultipleMovies(createMovierRequests);
+            return Ok(movies);
+        }
+        [HttpGet]
+        [Route("HighBudget")]
+        public IActionResult GetHighBudgetMovies()
+        {
+            var movies = _movieService.GetHighBudgetMovies();
+            return Ok(movies);
+        }
     }
 }

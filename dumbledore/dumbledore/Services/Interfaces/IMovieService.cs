@@ -4,8 +4,11 @@ namespace dumbledore.Services.Interfaces
 {
     public interface IMovieService
     {
-        public CreateMovieResponse AddMovie(CreateMovierRequest createMovierRequest);
+        public CreateMovierRequest AddMovie(CreateMovierRequest createMovierRequest);
 
         public CreateMovierRequest FetchMovie(int MovieID);
+        public List<CreateMovierRequest> GetListOfMovies(List<int> MovieIds);
+        public List<CreateMovierRequest> AddMultipleMovies(List<CreateMovierRequest> createMovierRequests);
+        public List<HighBudgetMovieResponse> GetHighBudgetMovies();
     }
 }
