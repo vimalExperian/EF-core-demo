@@ -18,6 +18,13 @@ namespace dumbledore.Controllers
             bool success = _reviewService.AddReview(request);
             return Ok(success);
         }
-        
+        [HttpGet]
+        [Route("GetTopRatedMovie")]
+        [ProducesResponseType(200)]
+        public IActionResult FetchTopRatedMovie()
+        {
+            var topRatedMovie = _reviewService.FetchTopRatedMovie();
+            return Ok(topRatedMovie);
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace dumbledore.Services
             var IsSuccess= _reviewRepository.AddReview(request);
             return IsSuccess;
         }
+        public TopRatedMovieResponse FetchTopRatedMovie()
+        {
+            var topRatedMovie = _reviewRepository.FetchTopRatedMovie();
+            return topRatedMovie;
+        }
     }
 }

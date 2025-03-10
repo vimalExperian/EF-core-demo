@@ -5,5 +5,6 @@ namespace dumbledore.DL.Interfaces
     public interface IReviewRepository
     {
         public bool AddReview(CreateRatingRequest request);
+        public TopRatedMovieResponse FetchTopRatedMovie();
     }
 }
