@@ -1,5 +1,8 @@
-﻿namespace dumbledore.DL.Entity
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace dumbledore.DL.Entity
 {
+    [Table("Crew")]
     public class CrewEntity
     {
         public int Id { get; set; }

@@ -7,11 +7,11 @@ using dumbledore.DL;
 
 #nullable disable
 
-namespace dumbledore.Migrations
+namespace dumbledore.Migrations.Crew
 {
-    [DbContext(typeof(MovieContext))]
-    [Migration("20250227132622_MovieMig1")]
-    partial class MovieMig1
+    [DbContext(typeof(CrewContext))]
+    [Migration("20250310075652_Crew")]
+    partial class Crew
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,7 +40,7 @@ namespace dumbledore.Migrations
 
                     b.HasIndex("MovieId");
 
-                    b.ToTable("CrewEntity");
+                    b.ToTable("Crew");
                 });
 
             modelBuilder.Entity("dumbledore.DL.Entity.MovieEntity", b =>

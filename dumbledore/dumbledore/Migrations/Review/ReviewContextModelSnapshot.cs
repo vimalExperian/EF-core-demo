@@ -6,10 +6,10 @@ using dumbledore.DL;
 
 #nullable disable
 
-namespace dumbledore.Migrations
+namespace dumbledore.Migrations.Review
 {
-    [DbContext(typeof(MovieContext))]
-    partial class MovieContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ReviewContext))]
+    partial class ReviewContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

@@ -17,6 +17,8 @@ builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<IReviewService, ReviewService>();
 builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
+builder.Services.AddScoped<ICrewRepository, CrewRepository>();
+builder.Services.AddScoped<ICrewService, CrewService>();
 
 
 builder.Services.AddDbContext<MovieContext>(

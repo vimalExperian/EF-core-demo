@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace dumbledore.Migrations
+namespace dumbledore.Migrations.Crew
 {
     /// <inheritdoc />
-    public partial class MovieMig1 : Migration
+    public partial class Crew : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -27,7 +27,7 @@ namespace dumbledore.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "CrewEntity",
+                name: "Crew",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -38,9 +38,9 @@ namespace dumbledore.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_CrewEntity", x => x.Id);
+                    table.PrimaryKey("PK_Crew", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_CrewEntity_Movie_MovieId",
+                        name: "FK_Crew_Movie_MovieId",
                         column: x => x.MovieId,
                         principalTable: "Movie",
                         principalColumn: "ID",
@@ -70,8 +70,8 @@ namespace dumbledore.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_CrewEntity_MovieId",
-                table: "CrewEntity",
+                name: "IX_Crew_MovieId",
+                table: "Crew",
                 column: "MovieId");
 
             migrationBuilder.CreateIndex(
@@ -84,7 +84,7 @@ namespace dumbledore.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "CrewEntity");
+                name: "Crew");
 
             migrationBuilder.DropTable(
                 name: "Review");
